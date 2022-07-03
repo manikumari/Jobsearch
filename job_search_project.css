@@ -1,0 +1,22 @@
+home_page_title{
+    font-size: 25px;
+    font-family: "Bree Serif";
+    color: #f19116;
+    padding: 10px;
+}
+home_page_description{
+    font-size: 15px;
+    font-family: "Bree Serif";
+    color: #7b8794;
+    padding: 10px;
+}
+
+
+.button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    padding: 11px;
+    border-radius: 5px;
+    font-size: 12px;
+}
